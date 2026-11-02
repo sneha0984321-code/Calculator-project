@@ -71,6 +71,9 @@ Follow these steps to run the project on your local machine.
 ## 👩‍💻 Author
 
 **Sneha Sharma**
+- Email = snehasharma200791@gmail.com
+- LinkedIn = https://www.linkedin.com/in/sneha-sharma-4a4951428
+- Hacker rank = https://www.hackerrank.com/profile/sneha_0984321
 
 Aspiring Data Scientist | Student
 
