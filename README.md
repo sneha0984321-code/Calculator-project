@@ -41,20 +41,13 @@ Follow these steps to run the project on your local machine.
 
 ## 📂 Project Navigation
 
-Explore the files in this repository:
+----
 
-* [Calculator Source Code](calculator.py)
-* [Project Documentation](README.md)
+1. Download the file from the file uploaded above.
+2. Open the code file
+3. Run the code in your editor like PyCharm, VS code editor etc.
 
-## 📁 Repository Structure
-
-```text
-Calculator/
-│
-├── calculator.py
-└── README.md
-```
-
+----
 
 ## 📸 Screenshots
 
